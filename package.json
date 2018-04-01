@@ -1,0 +1,25 @@
+{
+  "name": "crudjson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_main.js",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "nodemon": "^1.17.3",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athiwatth/CRUDJSON.git"
+  },
+  "author": "John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athiwatth/CRUDJSON/issues"
+  },
+  "homepage": "https://github.com/athiwatth/CRUDJSON#readme"
+}
